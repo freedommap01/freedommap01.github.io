@@ -1173,11 +1173,9 @@ a.article-title:hover {
   border: none;
 }
 .article-entry table {
+  width: 100%;
   border-collapse: collapse;
   border-spacing: 0;
-  empty-cells: show;
-  border: 1px solid #e2e2e2;
-  width: 100%;
 }
 .article-entry th {
   font-weight: 600;
