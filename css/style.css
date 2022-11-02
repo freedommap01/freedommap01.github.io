@@ -1173,18 +1173,24 @@ a.article-title:hover {
   border: none;
 }
 .article-entry table {
-  width: 100%;
   border-collapse: collapse;
   border-spacing: 0;
+  empty-cells: show;
+  width: 100%;
 }
 .article-entry th {
+  white-space: normal;
+  color: color-font;
   font-weight: 600;
-  border-bottom: 3px solid #ddd;
-  padding-bottom: 0.5em;
+  background: #eee;
 }
-.article-entry td {
-  border-bottom: 1px solid #ddd;
-  padding: 10px 0;
+.article-entry td,
+.article-entry th {
+  border: 1px solid #e2e2e2;
+  padding: 8px 16px;
+}
+.article-entry tr:nth-child(2n) {
+  background: #eee;
 }
 .article-entry blockquote {
   color: #777;
