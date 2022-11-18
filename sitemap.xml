@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2022-11-17-%E5%AF%8C%E5%A3%AB%E5%BA%B7%E9%84%AD%E5%B7%9E%E5%93%A1%E5%B7%A5%E5%A4%A7%E5%87%BA%E8%B5%B0%EF%BC%8C%E9%B4%BB%E6%B5%B7%E6%98%8E%E5%B9%B4%E9%82%84%E8%83%BD%E7%8D%A8%E5%AE%B6%E4%BB%A3%E5%B7%A5%E5%97%8E/</loc>
+    
+    <lastmod>2022-11-18</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/2022-11-10-Google%20Adsense%20%E9%9D%9E%E5%90%8C%E6%AD%A5%20async%20script%20%E6%80%8E%E9%BA%BC%E6%94%BE/</loc>
     
     <lastmod>2022-11-18</lastmod>
@@ -334,6 +341,13 @@
   
   <url>
     <loc>http://example.com/tags/AdSense/</loc>
+    <lastmod>2022-11-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/%E5%8F%B0%E8%82%A1/</loc>
     <lastmod>2022-11-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
